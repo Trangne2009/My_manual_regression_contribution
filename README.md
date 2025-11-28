@@ -1,4 +1,4 @@
-# [TÊN ĐỒ ÁN CHUYÊN NGÀNH CỦA BẠN] - PHÂN TÍCH VÀ MÔ HÌNH HÓA THUẬT TOÁN
+# MÔN ĐỒ ÁN CHUYÊN NGÀNH - PHÂN TÍCH VÀ MÔ HÌNH HÓA THUẬT TOÁN
 
 Dự án này là đóng góp cá nhân của tôi trong khuôn khổ môn **Đồ án Chuyên ngành**, tập trung vào việc hiểu sâu sắc kiến thức nền tảng về thuật toán Machine Learning.
 
